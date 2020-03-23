@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Wayn's Personal"
+title                    : "William Wayn's Personal CV"
 title_separator          : "-"
 subtitle                 : Data Scientist # site tagline that appears below site title in masthead
 name                     : "William Wayn"
