@@ -4,7 +4,7 @@ title: "Projects by Tags"
 permalink: /projects/
 author_profile: true
 header:
-    image: "assets/images/background.png"
+    image: "assets/images/Physics-Blackboard-Equations-1280x450.jpg"
 ---
 
 {% include base_path %}
