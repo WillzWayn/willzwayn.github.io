@@ -2,13 +2,12 @@
 layout: archive
 title: "Projects by Tags"
 permalink: /projects/
-#author_profile: true
+author_profile: true
 header:
-    #image: "assets/images/Physics-Blackboard-Equations-1280x450.jpg"
+    image: "assets/images/Physics-Blackboard-Equations-1280x450.jpg"
     except: "Machine Learning and Deep Learning Projects"
 ---
 
-<!--
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
@@ -19,4 +18,3 @@ header:
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
--->
