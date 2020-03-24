@@ -2,6 +2,9 @@
 *~
 *.sw[p_]
 
+#
+run.sh
+
 # Sublime Text
 *.sublime-project
 *.sublime-workspace
