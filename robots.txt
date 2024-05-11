@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://willzwayn.github.io/sitemap.xml
